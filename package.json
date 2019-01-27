@@ -12,6 +12,7 @@
 	"engines": {
 		"node": ">=8"
 	},
+	"main": "lib.js",
 	"scripts": {
 		"test": "xo && ava"
 	},
